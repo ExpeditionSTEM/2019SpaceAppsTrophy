@@ -8,7 +8,7 @@ CUSTOM:
 
 Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com
 
-<u>FROM ADAFRUIT:</u>
+FROM ADAFRUIT:
 
 Adafruit Feather 32u4 Bluefruit LE with Stacking Headers - Assembled (PID: 3242)
 https://www.adafruit.com/product/3242
@@ -36,6 +36,7 @@ https://www.amazon.com/gp/product/B079D58DB3/
 
 
 FROM JLCPCB (mounted through SMT assembly):
+
 WS2812B-V3 - 5050 LIGHT EMITTING DIODE (LED) RED/GREEN/BLUE SMD
 
 TACTILE SWITCHES SPST 5.10MM X 5.10MM 0.40MM 50MA @ 12VDC SMD 
