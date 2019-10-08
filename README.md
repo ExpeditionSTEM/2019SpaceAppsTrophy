@@ -8,6 +8,7 @@ CUSTOM:
 Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com
 
 FROM ADAFRUIT:
+
 Adafruit Feather 32u4 Bluefruit LE with Stacking Headers - Assembled (PID: 3242)
 https://www.adafruit.com/product/3242
 
