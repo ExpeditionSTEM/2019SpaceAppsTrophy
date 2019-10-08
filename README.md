@@ -5,6 +5,7 @@ A description of the 2019 Space Apps Trophy made for the Huntsville Main Stage
 LIST OF COMPONENTS:
 
 CUSTOM:
+
 Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com
 
 FROM ADAFRUIT:
