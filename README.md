@@ -8,6 +8,7 @@ CUSTOM:
 
 Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com
 
+
 FROM ADAFRUIT:
 
 Adafruit Feather 32u4 Bluefruit LE with Stacking Headers - Assembled (PID: 3242)
@@ -34,13 +35,15 @@ https://www.adafruit.com/product/2940
 Stacking Headers for Feather - 12-pin and 16-pin female headers (PID: 2830)
 https://www.adafruit.com/product/2830
 
+
 MISC:
 
 Photoresistor (Light Sensor) 5 mm GM5539 5539
 https://www.amazon.com/dp/B01N7V536K
 
-lide Switch 3 Pin 2 Position SPDT with PCB Panel for Arduino 0.5 Amp, 50V DC, 2 mm
+Slide Switch 3 Pin 2 Position SPDT with PCB Panel for Arduino 0.5 Amp, 50V DC, 2 mm
 https://www.amazon.com/gp/product/B079D58DB3/
+
 
 FROM JLCPCB (mounted through SMT assembly):
 
