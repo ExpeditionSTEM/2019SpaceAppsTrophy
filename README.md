@@ -25,15 +25,22 @@ https://www.adafruit.com/product/3130
 Lithium Ion Cylindrical Battery - 3.7v 2200mAh (PID: 1781)
 https://www.adafruit.com/product/1781
 
+FeatherWing Proto - Prototyping Add-on For All Feather Boards (PID: 2884)
+https://www.adafruit.com/product/2884
+
 Short Headers Kit for Feather - 12-pin + 16-pin Female Headers (PID: 2940)
 https://www.adafruit.com/product/2940
 
 Stacking Headers for Feather - 12-pin and 16-pin female headers (PID: 2830)
 https://www.adafruit.com/product/2830
 
-Slide Switch 3 Pin 2 Position SPDT with PCB Panel for Arduino 0.5 Amp, 50V DC, 2 mm
-https://www.amazon.com/gp/product/B079D58DB3/
+MISC:
 
+Photoresistor (Light Sensor) 5 mm GM5539 5539
+https://www.amazon.com/dp/B01N7V536K
+
+lide Switch 3 Pin 2 Position SPDT with PCB Panel for Arduino 0.5 Amp, 50V DC, 2 mm
+https://www.amazon.com/gp/product/B079D58DB3/
 
 FROM JLCPCB (mounted through SMT assembly):
 
