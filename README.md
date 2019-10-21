@@ -1,4 +1,7 @@
 # 2019SpaceAppsTrophy
+
+PLEASE STAY TUNED FOR UPDATES!  I WILL GET THIS REPO UPDATED BY 10/29.
+
 A description of the 2019 Space Apps Trophy made for the Huntsville Main Stage
 
 
