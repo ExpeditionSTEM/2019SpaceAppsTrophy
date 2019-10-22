@@ -9,7 +9,7 @@ LIST OF COMPONENTS:
 
 CUSTOM:
 
-Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com
+Custom Printed Circuit Board (PCB) - Designed by Andrew Denio.  Produced by JLCPCB.com  See "EAGLE" folder for files.
 
 
 FROM ADAFRUIT:
